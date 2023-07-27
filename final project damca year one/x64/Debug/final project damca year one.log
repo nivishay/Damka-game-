@@ -1,0 +1,5 @@
+﻿  game.c
+C:\Users\nivii\source\repos\Year One Semester b\final project damca year one\game.c(125,26): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\nivii\source\repos\Year One Semester b\final project damca year one\game.c(126,14): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nivii\source\repos\Year One Semester b\final project damca year one\game.c(132,29): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  final project damca year one.vcxproj -> C:\Users\nivii\source\repos\Year One Semester b\final project damca year one\x64\Debug\final project damca year one.exe
